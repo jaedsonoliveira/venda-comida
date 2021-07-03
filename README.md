@@ -1,2 +1,1 @@
------------- Projeto em Andamento -------------- 
-Site fecticio venda de pratos de comida, informações trazidas a partir de um Json
+Projeto feito em HTML,CSS,JS que simula a venda de pratos de um restaurante
